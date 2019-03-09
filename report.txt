@@ -1,1 +1,89 @@
-s is my cv folder
+Report of 1896287 for Assignment on creating a CV.
+
+Steps for Task accomplishment:-
+
+
+1) Command:   git clone https://github.com/AlkeshAlli/MAD314-CV--1895582-.git
+   Purpose:   to clone GitHub repository to computer.
+   Response:  Cloning into 'MAD314-CV--1896287-'... warning: You appear to have cloned an empty repository.
+
+2) Command:   git add instructions.txt
+   Purpose:   to add file to git.
+   Response:  added file to git.
+
+3) Command:   $ git commit -m "task accomplished"
+   Purpose:   to commit the current file.
+   Response:  On branch master
+		Untracked files:
+       		harshith.doc
+	        report.txt
+
+4) Command:   git remote add origin https://github.com/harshithreddypeddolla/MAD314-CV--1896287-.git
+   Purpose:   Adds a remote repo to a local repo.
+   Response:  added a remote repo to our local repo.
+
+5) Command:   git push -u origin master
+   Purpose:   to push our files to remote repo.
+   Response:  fatal: HttpRequestException encountered. An error occurred while sending the request.
+		Username for 'https://github.com': harshithreddypeddolla
+		Counting objects: 3, done.
+		Delta compression using up to 4 threads.
+		Compressing objects: 100% (2/2), done.
+		Writing objects: 100% (3/3), 1.24 KiB | 1.24 MiB/s, done.
+		Total 3 (delta 0), reused 0 (delta 0)
+		To https://github.com/harshithreddypeddolla/MAD314-CV--1896287-.git
+		 * [new branch]      master -> master
+		Branch master set up to track remote branch master from origin.
+
+6) Command:   vi report.txt.
+   Purpose:   to create a file.
+   Response:  file created
+
+7) Command:  git add report.txt 
+   Purpose:   to add file to git.
+   Response:  added file to git.
+
+8) Command:   $ git commit -m "report generated"
+   Purpose:   to commit the current file.
+   Response:  [master e5a1fed] report generated
+ 	      1 file changed, 12 insertions(+)
+              create mode 100644 report.txt
+
+9) Command:   git push
+   Purpose:   to push our files to remote repo.
+   Response:  fatal: HttpRequestException encountered.
+   		An error occurred while sending the request.
+		Username for 'https://github.com': harshithreddypeddolla
+		Counting objects: 3, done.
+		Delta compression using up to 4 threads.
+		Compressing objects: 100% (3/3), done.
+		Writing objects: 100% (3/3), 480 bytes | 480.00 KiB/s, done.
+		Total 3 (delta 0), reused 0 (delta 0)
+		To https://github.com/harshithreddypeddolla/MAD314-CV--1896287-.git
+		   ce9d849..e5a1fed  master -> master
+
+10) Command:   git add alkres.docx
+   Purpose:   to add file to git.
+   Response:  added file to git.
+
+11) Command:   git commit -m "CV Created"
+   Purpose:   to commit the current file.
+   Response:  [master 8574993] CV Created
+		 1 file changed, 0 insertions(+), 0 deletions(-)
+		 create mode 100644 harshith.doc
+
+12) Command:   git push
+   Purpose:   to push our files to remote repo.
+   Response:  fatal: HttpRequestException encountered.
+	      An error occurred while sending the request.
+	      Username for 'https://github.com': harshithreddypeddolla
+	      Counting objects: 3, done.
+	      Delta compression using up to 4 threads.
+	      Compressing objects: 100% (3/3), done.
+	      Writing objects: 100% (3/3), 14.43 KiB | 14.43 MiB/s, done.
+	      Total 3 (delta 0), reused 0 (delta 0)
+	      To https://github.com/harshithreddypeddolla/MAD314-CV--1896287-.git
+	      e5a1fed..8574993  master -> master
+
+CV uploaded with instruction
+
