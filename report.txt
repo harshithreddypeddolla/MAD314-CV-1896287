@@ -3,7 +3,7 @@ Report of 1896287 for Assignment on creating a CV.
 Steps for Task accomplishment:-
 
 
-1) Command:   git clone https://github.com/AlkeshAlli/MAD314-CV--1895582-.git
+1) Command:   git clone https://github.com/Harshithreddypeddolla/MAD314-CV--1896287-.git
    Purpose:   to clone GitHub repository to computer.
    Response:  Cloning into 'MAD314-CV--1896287-'... warning: You appear to have cloned an empty repository.
 
