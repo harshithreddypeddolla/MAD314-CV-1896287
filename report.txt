@@ -62,7 +62,7 @@ Steps for Task accomplishment:-
 		To https://github.com/harshithreddypeddolla/MAD314-CV--1896287-.git
 		   ce9d849..e5a1fed  master -> master
 
-10) Command:   git add alkres.docx
+10) Command:   git add harshith.doc
    Purpose:   to add file to git.
    Response:  added file to git.
 
@@ -84,6 +84,11 @@ Steps for Task accomplishment:-
 	      Total 3 (delta 0), reused 0 (delta 0)
 	      To https://github.com/harshithreddypeddolla/MAD314-CV--1896287-.git
 	      e5a1fed..8574993  master -> master
+
+13) Command:  cd cv(folder name)
+    Purpose:  To open the folder
+    response: cv (master)
+
 
 CV uploaded with instruction
 
