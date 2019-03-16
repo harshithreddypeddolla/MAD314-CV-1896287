@@ -54,7 +54,7 @@ Steps for Task accomplishment:-
    Response:  fatal: HttpRequestException encountered.
    		An error occurred while sending the request.
 		Username for 'https://github.com': harshithreddypeddolla
-		Counting objects: 3, done.
+i		Counting objects: 3, done.
 		Delta compression using up to 4 threads.
 		Compressing objects: 100% (3/3), done.
 		Writing objects: 100% (3/3), 480 bytes | 480.00 KiB/s, done.
@@ -91,4 +91,5 @@ Steps for Task accomplishment:-
 
 
 CV uploaded with instruction
+assignment completed
 
